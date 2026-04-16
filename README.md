@@ -12,18 +12,18 @@ I've recently made the move to the Food Standards Agency, and I'm looking forwar
 
 When I'm not working, I enjoy getting outside as much as I can. I love scuba diving, hiking and running - in Nov 2024 I completed the Florence Marathon with my Brother and Father. In 2025 I took a six-month sabbatical to travel around South East Asia, which was an incredible experience.
 
-<!-- <table>
+<table>
   <tr>
-    <td><img src="./assets/img/marathon.jpg" width="200" style="border-radius:8px;"></td>
+    <td><img src="./assets/img/marathon2.jpg" width="200" style="border-radius:8px;"></td>
     <td><img src="./assets/img/diving.jpg" width="200" style="border-radius:8px;"></td>
     <td><img src="./assets/img/vietnam.jpg" width="200" style="border-radius:8px;"></td>
   </tr>
-</table> -->
+</table>
 
-<table>
+<!-- <table>
   <tr>
     <td align="center"><img src="./assets/img/marathon.jpg" width="200" height="200" style="border-radius:8px; object-fit:cover;"><br>Running</td>
     <td align="center"><img src="./assets/img/diving.jpg" width="200" height="200" style="border-radius:8px; object-fit:cover;"><br>Diving</td>
     <td align="center"><img src="./assets/img/vietnam.jpg" width="200" height="200" style="border-radius:8px; object-fit:cover;"><br>Travel</td>
   </tr>
-</table>
+</table> -->
