@@ -12,8 +12,16 @@ When I'm not working, I enjoy getting outside as much as I can. I love scuba div
 
 <table>
   <tr>
-    <td><img src="./assets/img/marathon.png" width="200" style="border-radius:8px;"></td>
+    <td><img src="./assets/img/marathon.jpg" width="200" style="border-radius:8px;"></td>
     <td><img src="./assets/img/diving.jpg" width="200" style="border-radius:8px;"></td>
     <td><img src="./assets/img/vietnam.jpg" width="200" style="border-radius:8px;"></td>
   </tr>
 </table>
+
+<!-- <table>
+  <tr>
+    <td align="center"><img src="./assets/img/marathon.png" width="200" height="200" style="border-radius:8px; object-fit:cover;"><br>Running</td>
+    <td align="center"><img src="./assets/img/diving.jpg" width="200" height="200" style="border-radius:8px; object-fit:cover;"><br>Diving</td>
+    <td align="center"><img src="./assets/img/vietnam.jpg" width="200" height="200" style="border-radius:8px; object-fit:cover;"><br>Travel</td>
+  </tr>
+</table> -->
