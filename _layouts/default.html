@@ -60,7 +60,7 @@
         <img src="{{ site.logo | relative_url }}" alt="Logo">
       {% endif %}
       <nav>
-        <a href="{{ '/' | relative_url }}" {% if page.url == '/' %}class="active"{% endif %}>About</a>
+        <a href="{{ '/' | relative_url }}" {% if page.url == '/' %}class="active"{% endif %}>About me</a>
         <a href="{{ '/portfolio' | relative_url }}" {% if page.url contains 'portfolio' %}class="active"{% endif %}>Portfolio</a>
         <a href="{{ '/contact' | relative_url }}" {% if page.url contains 'contact' %}class="active"{% endif %}>Contact</a>
       </nav>
