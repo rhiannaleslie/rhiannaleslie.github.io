@@ -2,6 +2,7 @@
 <html lang="en-UK">
 <head>
   <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>{{ page.title }} | {{ site.title }}</title>
   <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
   <style>
@@ -19,6 +20,35 @@
       border-bottom: 2px solid #494949;
       font-size: 1.2rem;
       font-weight: 900;
+    }
+
+    /* ── Mobile ── */
+    @media (max-width: 600px) {
+      nav {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 8px;
+      }
+      nav a {
+        margin-right: 0;
+        font-size: 1rem;
+        padding: 8px 12px;
+        background: #f0f0f0;
+        border-radius: 4px;
+      }
+      nav a.active {
+        background: #494949;
+        color: #fff;
+        border-bottom: none;
+        font-size: 1rem;
+      }
+      header img {
+        max-width: 100%;
+        height: auto;
+      }
+      .wrapper {
+        padding: 0 16px;
+      }
     }
   </style>
 </head>
