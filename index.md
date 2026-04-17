@@ -21,7 +21,7 @@ When I'm not working, I enjoy getting outside as much as I can. I love scuba div
   <tr>
     <td><img src="./assets/img/diving.jpg" width="200" style="border-radius:8px;"></td>
     <td><img src="./assets/img/vietnam.jpg" width="200" style="border-radius:8px;"></td>
-    <td><img src="./assets/img/running.jpg" width="200" style="border-radius:8px;"></td>
+    <td><img src="./assets/img/running2.jpg" width="200" style="border-radius:8px;"></td>
   </tr>
 </table>
 
