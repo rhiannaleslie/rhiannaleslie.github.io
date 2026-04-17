@@ -3,5 +3,4 @@ layout: default
 title: Contact
 ---
 
-## Contact me
-...
+# Contact me

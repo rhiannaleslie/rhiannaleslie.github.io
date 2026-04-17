@@ -3,5 +3,4 @@ layout: default
 title: Portfolio
 ---
 
-## My Projects
-...
+# My Projects
