@@ -15,7 +15,7 @@ I've recently made the move to the Food Standards Agency, and I'm looking forwar
 
 # About me (outside of Data Science)
 
-When I'm not working, I enjoy getting outside as much as I can. I love scuba diving, yoga,  hiking, and running. In Nov 2024 I completed the Florence Marathon, with my dad and brother, and in 2025 I took a six-month sabbatical to travel around South East Asia, which was an incredible experience.
+When I'm not working, I enjoy getting outside as much as I can. I love scuba diving, yoga,  hiking, and running. In Nov 2024 I completed the Florence Marathon, with my dad and brother, and in 2025 I took a six-month sabbatical to travel around Southeast Asia, which was an incredible experience.
 
 <table>
   <tr>
