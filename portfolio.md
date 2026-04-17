@@ -17,7 +17,7 @@ From April to September 2025 I took a trip of a life time and backpacked through
 - uses the Google Places API to enrich the data with location coordinates and average google review ratings
 - creates a pipeline to refresh this data enrichment and generate an interactive folium map
 
-# Links 
+### Links 
 
 The map is deployed an hosted here: https://rhiannaleslie.github.io/accomodation-analysis/
 
