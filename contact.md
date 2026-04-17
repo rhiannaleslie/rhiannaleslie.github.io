@@ -3,6 +3,13 @@ layout: default
 title: Contact
 ---
 
-# Contact me
+# How to get in Contact
 
-You can contact me through my email: rhiannaleslie@hotmail.co.uk
+### Email
+rhiannaleslie@hotmail.co.uk
+
+### Github Profile
+[https://github.com/rhiannaleslie](https://github.com/rhiannaleslie)
+
+### Social networks
+Linkedin: [https://www.linkedin.com/in/rhianna-leslie-1409b01a0/](https://www.linkedin.com/in/rhianna-leslie-1409b01a0/)

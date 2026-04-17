@@ -5,7 +5,7 @@ title: Portfolio
 
 # My Projects
 
-Here is a high level summary of the data science projects I have been working on in my free time. Links to all the repositories, found on my personal GitHub, are provided for a more in-depth look at the methods used.
+Here is a high level summary of the data science projects I have been working on in my free time. Links to all the repositories, found on my personal [GitHub profile](https://github.com/rhiannaleslie), are provided for a more in-depth look at the methods used.
 
 ## Visualising my backpacking trip
 
