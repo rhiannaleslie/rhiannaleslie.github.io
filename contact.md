@@ -12,4 +12,4 @@ rhiannaleslie@hotmail.co.uk
 [https://github.com/rhiannaleslie](https://github.com/rhiannaleslie)
 
 ### Social networks
-Linkedin: [https://www.linkedin.com/in/rhianna-leslie-1409b01a0/](https://www.linkedin.com/in/rhianna-leslie-1409b01a0/)
+LinkedIn: [https://www.linkedin.com/in/rhianna-leslie-1409b01a0/](https://www.linkedin.com/in/rhianna-leslie-1409b01a0/)
