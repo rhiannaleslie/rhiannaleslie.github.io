@@ -19,8 +19,8 @@ From April to September 2025 I took a trip of a life time and backpacked through
 
 ### Links 
 
-The map is deployed an hosted here: https://rhiannaleslie.github.io/accomodation-analysis/
+The map is deployed an hosted here: [https://rhiannaleslie.github.io/accomodation-analysis/](https://rhiannaleslie.github.io/accomodation-analysis/)
 
-The github repository is here: https://github.com/rhiannaleslie/accomodation-analysis
+The github repository is here: [https://github.com/rhiannaleslie/accomodation-analysis](https://github.com/rhiannaleslie/accomodation-analysis)
 
 
