@@ -24,3 +24,21 @@ The map is deployed an hosted here: [https://rhiannaleslie.github.io/accomodatio
 The github repository is here: [https://github.com/rhiannaleslie/accomodation-analysis](https://github.com/rhiannaleslie/accomodation-analysis)
 
 
+## Data Science for Policy: Energy Prices and CPI Trends in Great Britain
+
+Whist a graduate on the ONS Data Science in the Public Sector graduate programme, I completed this project to demonstrate an application of clustering algorithms.
+
+The development of this project occurred during the the energy crisis in 2022 and the topic surrounded the impacts that rising energy was having in other sectors in the UK. 
+
+**My chosen research question:** Can clustering analysis identify patterns amongst UK sector CPI trends, and what sectors show similar trends to energy price inflation?
+
+The analysis surrounded kmeans clustering on various CPI datasets, visualising clusters, and evaluating clusters using silhouette scores. 
+
+I combined the analysis into a powerpoint presentation, including recorded verbal explanations attached throughout the slides. 
+
+### Links
+
+Please see the repository for more detail, findings and outputs, as well as the final presentation: 
+[https://github.com/rhiannaleslie/data-science-for-policy](https://github.com/rhiannaleslie/data-science-for-policy)
+
+
